@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DDice</string>
+    <string name="roll_title">Roll for Life</string>
+    <string name="your_dice">Choose your Dice</string>
+    <string name="modifiers">Modifiers</string>
+    <string name="howmany">How many Dices?</string>
+    <string name="nsucc">You\'re a God</string>
+    <string name="nfail">You\'ve failed this party</string>
+    <string name="roll">Roll</string>
+    <string name="vhist">View History</string>
+    <string name="chist">Close History</string>
+</resources>
